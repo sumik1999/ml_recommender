@@ -1,0 +1,20 @@
+# Environment
+my_project_env/
+venv/
+.venv/
+__pycache__/
+
+# Binary/cache files
+*.pkl
+*.xlsx
+*.pdf
+*.jpg
+*.png
+
+# OS
+.DS_Store
+
+# JSON (keep mapping, discard large parsed outputs)
+parsed_courses*.json
+extracted_text.txt
+mapping.json

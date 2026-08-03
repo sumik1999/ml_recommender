@@ -13,8 +13,3 @@ __pycache__/
 
 # OS
 .DS_Store
-
-# JSON (keep mapping, discard large parsed outputs)
-parsed_courses*.json
-extracted_text.txt
-mapping.json

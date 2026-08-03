@@ -1,0 +1,201 @@
+user_id,user_name,user_program,user_department,user_branch,user_age,user_year_of_study,user_previous_courses,user_course_interest,user_career_interest,user_competencies,user_grades,user_occupied_slots,user_credits_requirement
+U001,Student_1,M.Tech,CHEM,Electronics and Telecommunication,24,3,"['ECE 045', 'ECE 056']",Machine Learning,Research,"['Communication', 'Thermodynamics', 'Mechanics']",7.23,"['D', 'C', 'A']",13
+U002,Student_2,M.Tech,EE,Computer Technology,24,2,"['AI 042', 'EE 016', 'MEL 001', 'CHEM 064']",Cybersecurity,Startup,"['Mechanics', 'C++', 'Data Analysis']",6.74,"['B', 'E', 'D']",13
+U003,Student_3,M.Tech,CS,Electronics and Telecommunication,21,4,"['EE 074', 'CHEM 052', 'AI 091', 'MEL 082', 'ECE 054']",Power Systems,Startup,"['C++', 'Control Systems', 'Python']",6.79,"['A', 'C', 'D']",15
+U004,Student_4,B.Tech,AI,AI,24,2,"['EE 096', 'CHEM 044', 'AI 029', 'EE 043']",Electronics Design,Startup,"['ML', 'Python', 'Communication']",7.66,"['E', 'A', 'B']",16
+U005,Student_5,M.Tech,CS,AI,23,4,"['AI 078', 'EE 020', 'EE 098']",Electronics Design,Startup,"['C++', 'Data Analysis', 'Thermodynamics']",9.35,"['C', 'B']",22
+U006,Student_6,M.Tech,AI,AI,20,1,"['EE 036', 'MEL 076', 'AI 008', 'CS 046']",AI Research,Startup,"['C++', 'ML', 'Control Systems']",9.24,"['D', 'E']",14
+U007,Student_7,B.Tech,CS,Chemical Engineering,26,3,"['AI 042', 'AI 078', 'CS 061']",AI Research,Research,"['ML', 'Python', 'Control Systems']",8.17,"['D', 'A', 'B']",17
+U008,Student_8,M.Tech,EE,Computer Technology,20,3,"['CHEM 037', 'ECE 050', 'MEL 053', 'ECE 100']",Power Systems,Research,"['Python', 'Mechanics', 'Thermodynamics']",8.34,"['D', 'B', 'E']",24
+U009,Student_9,B.Tech,ECE,Cybersecurity,22,4,"['ECE 045', 'ECE 040', 'MEL 084']",Cybersecurity,Startup,"['Mechanics', 'C++', 'Communication']",9.18,"['C', 'A']",28
+U010,Student_10,B.Tech,MEL,Computer Technology,21,1,"['ECE 040', 'ECE 024', 'ECE 028', 'CHEM 044']",Electronics Design,Startup,"['Data Analysis', 'C++', 'Mechanics']",9.29,"['E', 'C', 'A']",15
+U011,Student_11,B.Tech,CHEM,Power Engineering,23,3,"['EE 020', 'CHEM 021', 'ECE 024', 'CHEM 089', 'ECE 099']",AI Research,Industry,"['ML', 'Thermodynamics', 'Control Systems']",9.7,"['C', 'B']",21
+U012,Student_12,M.Tech,MEL,Metallurgy,21,2,"['CS 025', 'AI 048', 'CS 087', 'EE 074', 'MEL 057']",Chemical Processes,Industry,"['Communication', 'Mechanics', 'Control Systems']",9.38,"['B', 'E', 'D']",13
+U013,Student_13,B.Tech,AI,Chemical Engineering,26,4,"['CHEM 037', 'ECE 011']",Electronics Design,Research,"['ML', 'Data Analysis', 'Control Systems']",9.62,"['E', 'A', 'C']",19
+U014,Student_14,B.Tech,AI,Metallurgy,26,3,"['AI 065', 'AI 048', 'CHEM 031', 'ECE 050', 'ECE 011']",Power Systems,Industry,"['Control Systems', 'Python', 'ML']",6.95,"['A', 'D', 'E']",21
+U015,Student_15,M.Tech,AI,Metallurgy,20,3,"['ECE 011', 'MEL 003']",Power Systems,Industry,"['Control Systems', 'Mechanics', 'C++']",7.49,"['D', 'E']",13
+U016,Student_16,M.Tech,AI,AI,23,1,"['MEL 081', 'CS 066']",AI Research,Startup,"['Control Systems', 'Thermodynamics', 'C++']",7.29,"['A', 'E', 'B']",25
+U017,Student_17,B.Tech,MEL,AI,25,4,"['AI 068', 'EE 070']",AI Research,Startup,"['Python', 'Control Systems', 'Mechanics']",7.34,"['E', 'C']",12
+U018,Student_18,M.Tech,CS,Cybersecurity,25,4,"['ECE 018', 'MEL 006', 'CS 046', 'EE 070']",Power Systems,Industry,"['ML', 'Mechanics', 'Thermodynamics']",9.18,"['B', 'A', 'C']",14
+U019,Student_19,M.Tech,AI,Chemical Engineering,22,1,"['ECE 026', 'MEL 006']",Power Systems,Industry,"['Communication', 'Data Analysis', 'Control Systems']",7.44,"['C', 'B']",13
+U020,Student_20,M.Tech,MEL,Metallurgy,26,3,"['CHEM 052', 'EE 096', 'MEL 057', 'ECE 050', 'CHEM 044']",Networks,Research,"['Data Analysis', 'Thermodynamics', 'Control Systems']",8.9,"['C', 'A', 'B']",14
+U021,Student_21,M.Tech,CHEM,Electronics and Telecommunication,21,4,"['MEL 014', 'ECE 011', 'AI 042', 'CS 085']",Power Systems,Startup,"['Communication', 'Control Systems', 'Data Analysis']",7.98,"['E', 'C']",23
+U022,Student_22,M.Tech,AI,Power Engineering,20,2,"['AI 047', 'CS 066', 'EE 096', 'CS 087', 'CHEM 021']",Machine Learning,Research,"['ML', 'Mechanics', 'Communication']",7.28,"['A', 'E', 'C']",23
+U023,Student_23,M.Tech,AI,Cybersecurity,21,1,"['AI 048', 'MEL 057', 'EE 098', 'CS 010', 'EE 074']",Networks,Research,"['Thermodynamics', 'Control Systems', 'ML']",8.93,"['E', 'B']",27
+U024,Student_24,M.Tech,AI,Power Engineering,21,4,"['ECE 028', 'ECE 079', 'CHEM 037', 'CHEM 089', 'CHEM 063']",Networks,Research,"['C++', 'Data Analysis', 'Python']",9.17,"['C', 'E']",22
+U025,Student_25,B.Tech,ECE,Chemical Engineering,20,2,"['CHEM 021', 'ECE 092', 'AI 091', 'EE 090']",Cybersecurity,Industry,"['ML', 'Mechanics', 'Data Analysis']",7.28,"['E', 'C']",27
+U026,Student_26,M.Tech,ECE,Computer Technology,26,1,"['AI 009', 'ECE 040']",Chemical Processes,Industry,"['Data Analysis', 'Communication', 'Control Systems']",9.71,"['D', 'B', 'C']",14
+U027,Student_27,B.Tech,AI,Electronics and Telecommunication,22,3,"['AI 065', 'AI 008', 'EE 016', 'EE 067', 'EE 020']",Power Systems,Research,"['ML', 'C++', 'Data Analysis']",7.33,"['B', 'E', 'A']",29
+U028,Student_28,B.Tech,EE,Cybersecurity,26,1,"['MEL 076', 'CHEM 075', 'EE 020']",Networks,Research,"['Thermodynamics', 'Mechanics', 'Communication']",6.65,"['E', 'A', 'C']",30
+U029,Student_29,M.Tech,MEL,Cybersecurity,21,4,"['CHEM 064', 'MEL 081']",AI Research,Startup,"['Communication', 'Thermodynamics', 'ML']",8.0,"['E', 'D']",13
+U030,Student_30,M.Tech,AI,AI,24,1,"['AI 078', 'CS 019', 'EE 041', 'ECE 092']",Power Systems,Startup,"['Thermodynamics', 'Control Systems', 'C++']",7.3,"['D', 'E', 'A']",15
+U031,Student_31,M.Tech,AI,Cybersecurity,24,3,"['AI 038', 'ECE 050']",Electronics Design,Industry,"['Mechanics', 'C++', 'Data Analysis']",9.02,"['B', 'A']",27
+U032,Student_32,M.Tech,AI,Power Engineering,20,1,"['CHEM 051', 'AI 065']",Chemical Processes,Startup,"['Control Systems', 'C++', 'Communication']",8.13,"['C', 'D', 'A']",27
+U033,Student_33,M.Tech,CHEM,Cybersecurity,20,2,"['MEL 034', 'CS 094', 'AI 047']",Electronics Design,Startup,"['Mechanics', 'ML', 'Python']",8.33,"['A', 'D']",14
+U034,Student_34,M.Tech,CHEM,Electronics and Telecommunication,26,2,"['AI 017', 'MEL 013']",Chemical Processes,Industry,"['Thermodynamics', 'Mechanics', 'ML']",8.49,"['E', 'C', 'D']",24
+U035,Student_35,M.Tech,CS,Power Engineering,21,4,"['CS 061', 'EE 067', 'CHEM 059', 'EE 020']",AI Research,Startup,"['ML', 'Data Analysis', 'Communication']",8.46,"['A', 'B']",28
+U036,Student_36,M.Tech,CHEM,Metallurgy,26,1,"['AI 048', 'EE 043']",Cybersecurity,Higher Studies,"['C++', 'Control Systems', 'Communication']",7.38,"['E', 'C', 'B']",30
+U037,Student_37,B.Tech,EE,Power Engineering,20,1,"['AI 068', 'MEL 081', 'ECE 093']",AI Research,Industry,"['Mechanics', 'C++', 'Thermodynamics']",6.56,"['E', 'D']",22
+U038,Student_38,M.Tech,EE,Electronics and Telecommunication,24,4,"['AI 095', 'CS 094', 'AI 008', 'AI 091', 'ECE 018']",AI Research,Startup,"['Control Systems', 'Communication', 'ML']",9.66,"['B', 'D', 'C']",26
+U039,Student_39,B.Tech,ECE,Power Engineering,25,4,"['EE 036', 'MEL 072', 'CHEM 039']",Networks,Startup,"['Communication', 'Mechanics', 'ML']",8.08,"['C', 'D', 'A']",29
+U040,Student_40,M.Tech,MEL,Metallurgy,23,3,"['CHEM 051', 'ECE 045', 'ECE 099', 'CS 019', 'AI 038']",Machine Learning,Higher Studies,"['Communication', 'Thermodynamics', 'Python']",7.21,"['C', 'A', 'E']",29
+U041,Student_41,B.Tech,CHEM,Cybersecurity,20,4,"['AI 032', 'CS 007', 'EE 086']",AI Research,Startup,"['Control Systems', 'Thermodynamics', 'C++']",8.87,"['B', 'A', 'C']",15
+U042,Student_42,B.Tech,EE,Chemical Engineering,26,1,"['MEL 084', 'CS 061', 'ECE 062', 'ECE 026', 'ECE 097']",Power Systems,Industry,"['Thermodynamics', 'ML', 'Data Analysis']",8.27,"['E', 'B']",13
+U043,Student_43,M.Tech,AI,AI,25,4,"['ECE 024', 'EE 096', 'AI 038', 'EE 005', 'EE 002']",Power Systems,Industry,"['C++', 'ML', 'Mechanics']",9.31,"['A', 'D']",26
+U044,Student_44,B.Tech,EE,Cybersecurity,21,4,"['CS 083', 'MEL 033', 'ECE 092', 'ECE 024', 'EE 002']",Cybersecurity,Higher Studies,"['Thermodynamics', 'Mechanics', 'ML']",8.2,"['C', 'B']",14
+U045,Student_45,M.Tech,MEL,Electronics and Telecommunication,22,1,"['AI 042', 'AI 032', 'MEL 001', 'MEL 034', 'ECE 050']",Networks,Startup,"['Data Analysis', 'Mechanics', 'ML']",8.66,"['B', 'E']",19
+U046,Student_46,M.Tech,MEL,Computer Technology,22,2,"['CHEM 052', 'CS 088', 'AI 065']",Cybersecurity,Industry,"['Communication', 'Thermodynamics', 'Python']",9.66,"['D', 'C']",27
+U047,Student_47,M.Tech,AI,AI,20,1,"['EE 098', 'AI 032', 'CS 088']",Electronics Design,Research,"['C++', 'Communication', 'Control Systems']",9.23,"['D', 'E', 'C']",28
+U048,Student_48,B.Tech,CHEM,AI,23,2,"['EE 015', 'CS 088', 'AI 027', 'ECE 092', 'CHEM 075']",Chemical Processes,Higher Studies,"['C++', 'Communication', 'Control Systems']",8.01,"['B', 'C']",13
+U049,Student_49,M.Tech,AI,Power Engineering,25,1,"['EE 096', 'ECE 028']",AI Research,Research,"['C++', 'Python', 'Control Systems']",9.58,"['A', 'D', 'B']",14
+U050,Student_50,B.Tech,CS,Electronics and Telecommunication,21,4,"['AI 048', 'CHEM 049', 'CS 058', 'ECE 011', 'CS 088']",Cybersecurity,Industry,"['ML', 'Thermodynamics', 'Data Analysis']",8.9,"['D', 'B', 'A']",19
+U051,Student_51,B.Tech,CS,Metallurgy,20,4,"['AI 069', 'CHEM 049', 'ECE 030', 'AI 032', 'CHEM 059']",Power Systems,Research,"['ML', 'Data Analysis', 'C++']",7.29,"['C', 'D']",14
+U052,Student_52,B.Tech,CHEM,Computer Technology,21,3,"['AI 095', 'MEL 006', 'CHEM 052']",Chemical Processes,Industry,"['Control Systems', 'Communication', 'C++']",9.19,"['D', 'A']",30
+U053,Student_53,M.Tech,CHEM,Cybersecurity,24,4,"['MEL 053', 'CHEM 039', 'EE 036']",Machine Learning,Research,"['ML', 'Thermodynamics', 'Mechanics']",9.71,"['B', 'C', 'A']",24
+U054,Student_54,M.Tech,CHEM,Metallurgy,26,2,"['CHEM 049', 'ECE 024', 'ECE 097', 'AI 069']",Chemical Processes,Higher Studies,"['Control Systems', 'Mechanics', 'C++']",9.52,"['D', 'E', 'A']",29
+U055,Student_55,B.Tech,AI,Electronics and Telecommunication,20,3,"['AI 027', 'EE 043', 'CS 083', 'ECE 011']",Chemical Processes,Higher Studies,"['Thermodynamics', 'Python', 'Communication']",8.72,"['D', 'B']",13
+U056,Student_56,B.Tech,CS,Metallurgy,25,2,"['AI 027', 'EE 043', 'CHEM 039', 'EE 002', 'ECE 028']",Networks,Higher Studies,"['C++', 'Thermodynamics', 'Control Systems']",9.52,"['E', 'B']",29
+U057,Student_57,B.Tech,ECE,Cybersecurity,22,3,"['AI 047', 'CS 066', 'CHEM 064', 'EE 060']",Machine Learning,Higher Studies,"['Data Analysis', 'Mechanics', 'ML']",6.65,"['D', 'C', 'B']",19
+U058,Student_58,M.Tech,EE,Chemical Engineering,22,4,"['EE 020', 'ECE 026', 'EE 043', 'ECE 030']",Chemical Processes,Higher Studies,"['Control Systems', 'Data Analysis', 'Communication']",8.02,"['C', 'D']",23
+U059,Student_59,B.Tech,EE,AI,20,2,"['CS 010', 'EE 086']",Machine Learning,Research,"['Python', 'Control Systems', 'C++']",7.22,"['B', 'A', 'C']",26
+U060,Student_60,M.Tech,CS,Cybersecurity,26,2,"['EE 002', 'MEL 003', 'AI 068', 'ECE 093', 'EE 036']",AI Research,Research,"['Communication', 'Python', 'Data Analysis']",9.53,"['D', 'A', 'E']",28
+U061,Student_61,B.Tech,EE,AI,22,1,"['ECE 035', 'CHEM 051', 'ECE 011', 'AI 048']",Chemical Processes,Research,"['Data Analysis', 'Communication', 'C++']",6.81,"['E', 'C']",24
+U062,Student_62,B.Tech,CHEM,Electronics and Telecommunication,21,2,"['ECE 011', 'CHEM 064', 'ECE 056']",Cybersecurity,Higher Studies,"['Thermodynamics', 'Communication', 'Python']",7.39,"['A', 'E', 'C']",14
+U063,Student_63,B.Tech,ECE,Chemical Engineering,24,2,"['AI 027', 'MEL 076']",Networks,Higher Studies,"['Mechanics', 'Python', 'ML']",8.73,"['B', 'C']",29
+U064,Student_64,M.Tech,AI,Cybersecurity,26,3,"['MEL 013', 'ECE 056']",Networks,Research,"['C++', 'ML', 'Communication']",8.59,"['A', 'C']",26
+U065,Student_65,M.Tech,EE,Electronics and Telecommunication,26,2,"['CS 088', 'CHEM 075', 'CS 085']",Chemical Processes,Research,"['C++', 'Mechanics', 'Communication']",6.77,"['E', 'D', 'B']",16
+U066,Student_66,B.Tech,MEL,Electronics and Telecommunication,21,1,"['MEL 014', 'CS 012', 'MEL 001', 'ECE 040']",Chemical Processes,Industry,"['Thermodynamics', 'Mechanics', 'ML']",7.92,"['D', 'C']",29
+U067,Student_67,M.Tech,CHEM,Power Engineering,23,1,"['CHEM 071', 'CS 012', 'EE 077', 'AI 042']",Electronics Design,Industry,"['Mechanics', 'Python', 'ML']",8.39,"['A', 'E', 'D']",17
+U068,Student_68,M.Tech,AI,Chemical Engineering,23,1,"['ECE 035', 'CHEM 064', 'CS 019', 'AI 009']",Networks,Startup,"['Mechanics', 'ML', 'Control Systems']",7.33,"['B', 'C']",19
+U069,Student_69,M.Tech,MEL,Chemical Engineering,26,3,"['ECE 018', 'CHEM 039']",Machine Learning,Higher Studies,"['Mechanics', 'ML', 'Communication']",7.6,"['E', 'B', 'D']",16
+U070,Student_70,M.Tech,ECE,Cybersecurity,23,3,"['CHEM 051', 'EE 041', 'AI 038']",Cybersecurity,Higher Studies,"['Data Analysis', 'Communication', 'C++']",7.7,"['D', 'C']",30
+U071,Student_71,B.Tech,CHEM,AI,25,3,"['AI 091', 'AI 027', 'MEL 057', 'AI 038', 'CHEM 089']",Machine Learning,Industry,"['Mechanics', 'Thermodynamics', 'Control Systems']",7.33,"['E', 'A']",16
+U072,Student_72,B.Tech,AI,Chemical Engineering,20,2,"['CHEM 075', 'CHEM 052', 'AI 069', 'AI 065', 'CHEM 089']",Chemical Processes,Startup,"['Python', 'Mechanics', 'ML']",7.05,"['A', 'D', 'C']",13
+U073,Student_73,M.Tech,MEL,Power Engineering,23,2,"['MEL 013', 'MEL 034']",Networks,Startup,"['Control Systems', 'Data Analysis', 'ML']",9.79,"['C', 'D', 'A']",27
+U074,Student_74,M.Tech,ECE,Computer Technology,23,1,"['ECE 045', 'ECE 040', 'CHEM 044']",Chemical Processes,Higher Studies,"['Control Systems', 'Communication', 'Data Analysis']",8.88,"['A', 'E', 'C']",26
+U075,Student_75,B.Tech,CS,Cybersecurity,22,4,"['CS 083', 'MEL 014', 'CS 087', 'MEL 022']",Cybersecurity,Higher Studies,"['Control Systems', 'Communication', 'C++']",7.27,"['A', 'E', 'D']",24
+U076,Student_76,M.Tech,EE,Chemical Engineering,20,2,"['AI 095', 'ECE 079']",Networks,Industry,"['Data Analysis', 'Communication', 'Control Systems']",7.42,"['D', 'E']",14
+U077,Student_77,M.Tech,CS,Power Engineering,24,4,"['CHEM 059', 'EE 015', 'MEL 034']",Cybersecurity,Higher Studies,"['Data Analysis', 'Communication', 'Thermodynamics']",8.44,"['C', 'E']",23
+U078,Student_78,B.Tech,AI,Cybersecurity,24,4,"['EE 041', 'EE 016', 'CHEM 031']",Power Systems,Higher Studies,"['C++', 'Data Analysis', 'ML']",8.47,"['C', 'A']",30
+U079,Student_79,B.Tech,AI,Electronics and Telecommunication,26,3,"['CHEM 063', 'CHEM 037', 'ECE 018']",Networks,Research,"['Thermodynamics', 'Mechanics', 'Control Systems']",8.1,"['D', 'B']",18
+U080,Student_80,M.Tech,AI,Metallurgy,21,3,"['CHEM 063', 'MEL 022', 'ECE 011', 'EE 073', 'CS 004']",Electronics Design,Industry,"['Control Systems', 'ML', 'Python']",9.08,"['D', 'E', 'B']",30
+U081,Student_81,M.Tech,AI,Chemical Engineering,20,2,"['ECE 100', 'EE 070', 'AI 047', 'ECE 097']",Machine Learning,Startup,"['Data Analysis', 'Communication', 'C++']",9.39,"['E', 'A']",13
+U082,Student_82,M.Tech,ECE,Electronics and Telecommunication,21,2,"['AI 027', 'AI 095', 'MEL 076']",Cybersecurity,Industry,"['Thermodynamics', 'Mechanics', 'Data Analysis']",9.18,"['A', 'D', 'E']",13
+U083,Student_83,B.Tech,ECE,Power Engineering,22,2,"['AI 038', 'EE 074', 'ECE 035', 'CS 066']",Cybersecurity,Industry,"['C++', 'Data Analysis', 'Control Systems']",7.32,"['E', 'B', 'D']",22
+U084,Student_84,M.Tech,EE,Metallurgy,25,3,"['MEL 081', 'ECE 054', 'CHEM 049', 'CS 058']",Machine Learning,Higher Studies,"['C++', 'Control Systems', 'Communication']",9.64,"['D', 'B', 'C']",22
+U085,Student_85,M.Tech,CS,Power Engineering,22,3,"['AI 069', 'CHEM 051']",Networks,Startup,"['Mechanics', 'Data Analysis', 'C++']",7.61,"['D', 'C']",30
+U086,Student_86,M.Tech,CHEM,AI,23,1,"['MEL 081', 'CHEM 059']",Machine Learning,Higher Studies,"['C++', 'Mechanics', 'Data Analysis']",7.17,"['C', 'A', 'D']",16
+U087,Student_87,M.Tech,ECE,Chemical Engineering,25,2,"['MEL 033', 'ECE 011', 'AI 048', 'EE 086']",Cybersecurity,Higher Studies,"['ML', 'Python', 'Control Systems']",8.66,"['C', 'A']",15
+U088,Student_88,B.Tech,EE,Computer Technology,26,4,"['EE 067', 'CS 088', 'MEL 057']",Machine Learning,Industry,"['Python', 'Thermodynamics', 'ML']",8.08,"['A', 'B', 'C']",19
+U089,Student_89,B.Tech,CS,Electronics and Telecommunication,20,1,"['CHEM 039', 'ECE 018', 'CHEM 049', 'ECE 100']",Electronics Design,Industry,"['ML', 'Thermodynamics', 'Mechanics']",7.95,"['A', 'C']",18
+U090,Student_90,M.Tech,MEL,Chemical Engineering,22,4,"['CS 012', 'MEL 013', 'ECE 018']",Electronics Design,Startup,"['C++', 'Communication', 'Thermodynamics']",9.11,"['D', 'E']",19
+U091,Student_91,M.Tech,MEL,Cybersecurity,25,1,"['CS 085', 'CHEM 039']",Networks,Industry,"['Control Systems', 'Thermodynamics', 'Data Analysis']",8.13,"['B', 'C']",15
+U092,Student_92,B.Tech,AI,AI,26,4,"['EE 041', 'AI 017', 'ECE 050', 'EE 073']",Chemical Processes,Research,"['Thermodynamics', 'Communication', 'Data Analysis']",6.56,"['E', 'A']",14
+U093,Student_93,B.Tech,ECE,Computer Technology,25,2,"['AI 065', 'CHEM 037', 'MEL 081', 'ECE 092', 'ECE 099']",Chemical Processes,Startup,"['Mechanics', 'Thermodynamics', 'Control Systems']",6.78,"['A', 'E']",14
+U094,Student_94,M.Tech,EE,Power Engineering,25,2,"['MEL 076', 'MEL 082', 'EE 098', 'MEL 084', 'CS 088']",Cybersecurity,Research,"['C++', 'ML', 'Thermodynamics']",7.31,"['E', 'C']",25
+U095,Student_95,M.Tech,AI,Computer Technology,24,3,"['EE 002', 'AI 091']",Networks,Industry,"['Python', 'C++', 'Control Systems']",7.73,"['C', 'B']",20
+U096,Student_96,M.Tech,CS,Chemical Engineering,20,4,"['AI 068', 'AI 009', 'MEL 034', 'ECE 092']",AI Research,Industry,"['C++', 'Control Systems', 'Mechanics']",7.71,"['C', 'D']",20
+U097,Student_97,B.Tech,CS,Metallurgy,21,1,"['EE 002', 'AI 032']",Machine Learning,Higher Studies,"['Data Analysis', 'ML', 'Control Systems']",7.24,"['B', 'A']",19
+U098,Student_98,B.Tech,MEL,Electronics and Telecommunication,23,1,"['EE 016', 'AI 065', 'CS 087', 'CS 007']",Networks,Higher Studies,"['Control Systems', 'Mechanics', 'Communication']",9.36,"['C', 'A', 'E']",21
+U099,Student_99,M.Tech,CS,Cybersecurity,26,2,"['EE 073', 'CHEM 039', 'AI 095', 'AI 080']",Networks,Industry,"['Data Analysis', 'ML', 'Communication']",7.0,"['A', 'C', 'E']",25
+U100,Student_100,B.Tech,EE,Computer Technology,21,3,"['AI 095', 'CS 094', 'ECE 040', 'MEL 014', 'AI 027']",AI Research,Research,"['Control Systems', 'Data Analysis', 'Mechanics']",6.64,"['A', 'C', 'E']",19
+U101,Student_101,B.Tech,CHEM,Metallurgy,24,1,"['CHEM 075', 'MEL 013']",AI Research,Higher Studies,"['ML', 'Thermodynamics', 'Control Systems']",8.69,"['C', 'D', 'E']",16
+U102,Student_102,B.Tech,ECE,AI,21,1,"['EE 041', 'CS 058', 'ECE 035', 'ECE 030']",Machine Learning,Industry,"['Control Systems', 'C++', 'Communication']",7.98,"['C', 'D', 'E']",22
+U103,Student_103,B.Tech,CS,Electronics and Telecommunication,20,2,"['MEL 034', 'EE 016', 'CS 012', 'CHEM 021', 'CS 088']",Power Systems,Startup,"['Python', 'C++', 'ML']",7.81,"['B', 'D', 'E']",13
+U104,Student_104,B.Tech,ECE,Chemical Engineering,20,1,"['MEL 072', 'EE 096', 'CHEM 071', 'AI 032', 'MEL 013']",Chemical Processes,Industry,"['C++', 'Mechanics', 'Data Analysis']",6.93,"['B', 'A', 'E']",24
+U105,Student_105,B.Tech,MEL,Cybersecurity,26,3,"['MEL 003', 'AI 009']",Networks,Research,"['Data Analysis', 'Mechanics', 'C++']",6.64,"['E', 'C']",26
+U106,Student_106,B.Tech,EE,Computer Technology,20,2,"['CS 088', 'MEL 055', 'ECE 023', 'CS 046', 'ECE 028']",Networks,Startup,"['Communication', 'ML', 'Control Systems']",8.15,"['D', 'E', 'A']",29
+U107,Student_107,B.Tech,CS,Electronics and Telecommunication,23,3,"['ECE 054', 'ECE 026', 'CS 083']",Electronics Design,Higher Studies,"['Control Systems', 'Thermodynamics', 'Communication']",8.3,"['C', 'D']",27
+U108,Student_108,B.Tech,CHEM,Cybersecurity,26,4,"['EE 041', 'EE 077']",Networks,Startup,"['Python', 'Mechanics', 'ML']",9.03,"['D', 'C', 'A']",19
+U109,Student_109,B.Tech,CS,AI,21,3,"['EE 098', 'AI 029']",AI Research,Startup,"['Mechanics', 'ML', 'C++']",9.52,"['B', 'C']",12
+U110,Student_110,B.Tech,MEL,Chemical Engineering,21,2,"['CHEM 064', 'EE 070', 'ECE 040']",Networks,Research,"['Data Analysis', 'Python', 'Mechanics']",8.24,"['E', 'B', 'C']",12
+U111,Student_111,M.Tech,CHEM,Cybersecurity,20,3,"['AI 042', 'AI 008', 'MEL 003']",Networks,Higher Studies,"['ML', 'Mechanics', 'Python']",8.43,"['B', 'C']",22
+U112,Student_112,B.Tech,ECE,Cybersecurity,23,3,"['MEL 084', 'EE 041', 'ECE 023', 'AI 091', 'MEL 072']",Cybersecurity,Startup,"['Thermodynamics', 'C++', 'Data Analysis']",6.92,"['B', 'D']",12
+U113,Student_113,B.Tech,CHEM,Chemical Engineering,21,3,"['ECE 079', 'AI 029', 'MEL 082', 'EE 073']",Machine Learning,Startup,"['Data Analysis', 'C++', 'ML']",7.05,"['E', 'A', 'D']",14
+U114,Student_114,B.Tech,MEL,Metallurgy,20,4,"['AI 032', 'CHEM 089', 'AI 009']",Power Systems,Higher Studies,"['Communication', 'Mechanics', 'Python']",8.92,"['D', 'A', 'B']",17
+U115,Student_115,M.Tech,AI,Electronics and Telecommunication,20,3,"['EE 074', 'MEL 084', 'EE 098', 'CS 088', 'AI 029']",Networks,Startup,"['Data Analysis', 'Python', 'Mechanics']",9.64,"['C', 'D', 'A']",14
+U116,Student_116,M.Tech,EE,Cybersecurity,25,2,"['CHEM 044', 'EE 077']",AI Research,Higher Studies,"['Data Analysis', 'Thermodynamics', 'Python']",7.02,"['B', 'A', 'C']",15
+U117,Student_117,M.Tech,EE,Cybersecurity,20,4,"['CHEM 039', 'CHEM 031', 'MEL 013', 'CS 007']",Chemical Processes,Research,"['Data Analysis', 'C++', 'Python']",7.47,"['D', 'C']",27
+U118,Student_118,M.Tech,CS,AI,20,4,"['ECE 011', 'CS 061', 'EE 015', 'ECE 040']",Electronics Design,Industry,"['Mechanics', 'Control Systems', 'Data Analysis']",7.72,"['B', 'E']",24
+U119,Student_119,M.Tech,EE,Cybersecurity,26,4,"['MEL 034', 'AI 029', 'ECE 035', 'EE 073', 'AI 008']",Networks,Industry,"['C++', 'Python', 'Thermodynamics']",8.33,"['A', 'C', 'B']",24
+U120,Student_120,B.Tech,CHEM,Metallurgy,20,4,"['CS 061', 'CHEM 039', 'ECE 011']",Chemical Processes,Industry,"['Python', 'Communication', 'Mechanics']",9.63,"['E', 'D', 'C']",17
+U121,Student_121,M.Tech,EE,AI,22,1,"['CS 088', 'ECE 056']",Networks,Research,"['ML', 'Mechanics', 'Communication']",7.78,"['A', 'D']",24
+U122,Student_122,B.Tech,ECE,Power Engineering,26,3,"['EE 015', 'ECE 054', 'EE 020', 'CS 019', 'EE 073']",AI Research,Startup,"['C++', 'Python', 'Communication']",9.4,"['E', 'D', 'A']",20
+U123,Student_123,M.Tech,MEL,Electronics and Telecommunication,25,2,"['EE 036', 'CHEM 052', 'CS 019']",AI Research,Research,"['Mechanics', 'Python', 'Control Systems']",8.96,"['E', 'D', 'A']",20
+U124,Student_124,M.Tech,CS,Cybersecurity,25,4,"['EE 090', 'CS 088', 'MEL 013', 'ECE 030', 'ECE 018']",Power Systems,Research,"['Data Analysis', 'Mechanics', 'ML']",7.12,"['C', 'E', 'B']",18
+U125,Student_125,B.Tech,AI,Metallurgy,21,2,"['AI 009', 'ECE 040', 'AI 091']",AI Research,Industry,"['Mechanics', 'C++', 'Communication']",9.26,"['E', 'C', 'A']",19
+U126,Student_126,B.Tech,AI,Computer Technology,22,4,"['AI 048', 'EE 060', 'AI 065', 'CHEM 051']",Cybersecurity,Higher Studies,"['C++', 'Thermodynamics', 'Python']",7.09,"['C', 'B']",27
+U127,Student_127,B.Tech,CHEM,Power Engineering,26,2,"['CHEM 037', 'CS 004']",Chemical Processes,Industry,"['Python', 'C++', 'Communication']",8.74,"['C', 'B', 'D']",20
+U128,Student_128,M.Tech,AI,Chemical Engineering,25,3,"['CS 083', 'ECE 023', 'EE 077']",Electronics Design,Higher Studies,"['Python', 'C++', 'ML']",9.46,"['A', 'D']",23
+U129,Student_129,M.Tech,ECE,Electronics and Telecommunication,22,1,"['CHEM 075', 'MEL 014', 'MEL 001', 'CS 066', 'CS 085']",Electronics Design,Higher Studies,"['Thermodynamics', 'Communication', 'Data Analysis']",6.71,"['D', 'C']",20
+U130,Student_130,B.Tech,ECE,Chemical Engineering,25,1,"['EE 067', 'EE 098', 'CHEM 031']",Machine Learning,Higher Studies,"['Mechanics', 'Thermodynamics', 'ML']",9.79,"['C', 'E', 'A']",20
+U131,Student_131,M.Tech,AI,Electronics and Telecommunication,26,2,"['CS 088', 'AI 069', 'MEL 082']",Electronics Design,Industry,"['Data Analysis', 'Thermodynamics', 'ML']",7.47,"['A', 'B', 'D']",27
+U132,Student_132,M.Tech,MEL,AI,22,3,"['MEL 084', 'CS 012', 'AI 029', 'CS 046']",Networks,Higher Studies,"['Communication', 'Control Systems', 'ML']",9.31,"['E', 'B', 'C']",27
+U133,Student_133,B.Tech,MEL,Computer Technology,21,2,"['CS 088', 'CHEM 049']",AI Research,Startup,"['Communication', 'Control Systems', 'Python']",7.85,"['D', 'B']",30
+U134,Student_134,B.Tech,EE,Electronics and Telecommunication,26,2,"['MEL 081', 'ECE 023', 'EE 041', 'MEL 082']",Machine Learning,Industry,"['Python', 'Control Systems', 'ML']",8.12,"['B', 'A', 'E']",14
+U135,Student_135,B.Tech,CHEM,AI,20,1,"['ECE 050', 'MEL 001', 'EE 005', 'AI 069', 'ECE 026']",Cybersecurity,Industry,"['Thermodynamics', 'Python', 'ML']",7.25,"['D', 'E', 'B']",23
+U136,Student_136,M.Tech,EE,Cybersecurity,23,2,"['AI 009', 'MEL 006', 'CHEM 039']",Power Systems,Startup,"['Data Analysis', 'Thermodynamics', 'Communication']",9.79,"['D', 'C']",27
+U137,Student_137,B.Tech,EE,Cybersecurity,20,3,"['AI 029', 'CS 094', 'AI 017']",Networks,Research,"['Python', 'Communication', 'Mechanics']",7.74,"['D', 'A']",20
+U138,Student_138,M.Tech,CHEM,Metallurgy,20,3,"['MEL 084', 'MEL 003']",Machine Learning,Higher Studies,"['C++', 'Control Systems', 'Mechanics']",8.82,"['E', 'A']",18
+U139,Student_139,B.Tech,MEL,Chemical Engineering,22,1,"['CS 085', 'EE 067']",Power Systems,Research,"['ML', 'Control Systems', 'Python']",8.14,"['C', 'D']",18
+U140,Student_140,B.Tech,ECE,Metallurgy,20,1,"['CHEM 021', 'MEL 006', 'CHEM 071', 'CHEM 064']",Networks,Research,"['Data Analysis', 'ML', 'C++']",9.26,"['C', 'D']",27
+U141,Student_141,B.Tech,CS,AI,26,3,"['CHEM 059', 'AI 038', 'MEL 034']",Chemical Processes,Startup,"['Python', 'Data Analysis', 'C++']",9.15,"['A', 'C']",22
+U142,Student_142,M.Tech,MEL,Electronics and Telecommunication,24,3,"['ECE 018', 'CS 085']",Cybersecurity,Research,"['ML', 'Data Analysis', 'Mechanics']",7.73,"['A', 'E']",22
+U143,Student_143,B.Tech,CS,AI,26,2,"['CHEM 089', 'ECE 062', 'ECE 054', 'MEL 084', 'MEL 022']",Machine Learning,Research,"['ML', 'Thermodynamics', 'Mechanics']",7.87,"['D', 'E', 'B']",30
+U144,Student_144,M.Tech,CHEM,Electronics and Telecommunication,23,1,"['CS 088', 'CS 094']",Networks,Research,"['Data Analysis', 'Control Systems', 'Python']",7.36,"['B', 'D', 'E']",22
+U145,Student_145,B.Tech,MEL,Computer Technology,20,2,"['CS 085', 'CS 094', 'AI 032', 'ECE 062', 'ECE 045']",Cybersecurity,Higher Studies,"['Mechanics', 'C++', 'Communication']",9.31,"['C', 'A']",17
+U146,Student_146,B.Tech,AI,Computer Technology,23,4,"['AI 065', 'AI 029']",AI Research,Higher Studies,"['Mechanics', 'Control Systems', 'C++']",6.79,"['B', 'C', 'E']",27
+U147,Student_147,M.Tech,ECE,Electronics and Telecommunication,24,2,"['CHEM 052', 'MEL 053']",Machine Learning,Higher Studies,"['Python', 'Mechanics', 'Data Analysis']",9.64,"['D', 'A']",23
+U148,Student_148,M.Tech,CS,Metallurgy,26,3,"['ECE 092', 'CS 085', 'AI 047', 'CS 058', 'EE 015']",Machine Learning,Startup,"['Control Systems', 'Python', 'ML']",8.82,"['D', 'C']",13
+U149,Student_149,B.Tech,AI,AI,25,3,"['ECE 079', 'ECE 026', 'CS 025', 'EE 016']",Electronics Design,Research,"['Mechanics', 'C++', 'Control Systems']",9.0,"['D', 'A']",13
+U150,Student_150,M.Tech,MEL,Chemical Engineering,24,2,"['CHEM 064', 'MEL 001', 'AI 068']",Cybersecurity,Industry,"['Python', 'Communication', 'Control Systems']",8.91,"['D', 'E']",16
+U151,Student_151,B.Tech,AI,Computer Technology,23,3,"['EE 036', 'CHEM 051', 'CHEM 044']",Power Systems,Startup,"['Data Analysis', 'Mechanics', 'C++']",8.85,"['E', 'D', 'B']",29
+U152,Student_152,M.Tech,EE,Chemical Engineering,24,4,"['CS 087', 'AI 017', 'AI 091', 'MEL 084']",Networks,Higher Studies,"['Thermodynamics', 'Data Analysis', 'Python']",8.73,"['B', 'C']",29
+U153,Student_153,B.Tech,AI,Cybersecurity,22,3,"['CHEM 049', 'CS 019']",Machine Learning,Industry,"['Python', 'C++', 'ML']",9.27,"['E', 'A']",21
+U154,Student_154,M.Tech,CHEM,AI,21,3,"['ECE 079', 'CS 087']",Cybersecurity,Research,"['Control Systems', 'Thermodynamics', 'Mechanics']",9.56,"['C', 'D']",24
+U155,Student_155,M.Tech,MEL,Electronics and Telecommunication,26,2,"['ECE 026', 'AI 080', 'ECE 100', 'MEL 057']",Electronics Design,Industry,"['Control Systems', 'Thermodynamics', 'Mechanics']",7.47,"['E', 'A', 'D']",17
+U156,Student_156,B.Tech,CS,Chemical Engineering,22,4,"['MEL 006', 'MEL 055', 'EE 036', 'MEL 072', 'MEL 034']",Networks,Industry,"['ML', 'Communication', 'Data Analysis']",6.63,"['B', 'A']",22
+U157,Student_157,M.Tech,CS,Power Engineering,20,3,"['AI 068', 'AI 029', 'ECE 024', 'EE 067']",Machine Learning,Industry,"['ML', 'Control Systems', 'Communication']",9.42,"['D', 'C', 'A']",22
+U158,Student_158,B.Tech,ECE,Cybersecurity,20,3,"['EE 015', 'EE 086']",Power Systems,Higher Studies,"['Data Analysis', 'C++', 'Thermodynamics']",9.52,"['B', 'D', 'C']",15
+U159,Student_159,B.Tech,ECE,Electronics and Telecommunication,25,1,"['CHEM 063', 'MEL 006', 'AI 038', 'MEL 084', 'CS 025']",Power Systems,Industry,"['C++', 'Python', 'Data Analysis']",8.71,"['A', 'C', 'D']",18
+U160,Student_160,B.Tech,MEL,Metallurgy,20,1,"['CS 083', 'CS 010', 'EE 096', 'CS 088', 'EE 020']",Machine Learning,Research,"['Data Analysis', 'Thermodynamics', 'ML']",7.09,"['A', 'B', 'C']",20
+U161,Student_161,B.Tech,CS,Power Engineering,25,1,"['CS 058', 'MEL 081', 'CHEM 052', 'ECE 056', 'EE 041']",Machine Learning,Research,"['Mechanics', 'Thermodynamics', 'Python']",8.81,"['C', 'D']",14
+U162,Student_162,B.Tech,CHEM,Cybersecurity,23,2,"['CHEM 037', 'EE 098']",Chemical Processes,Industry,"['Mechanics', 'Control Systems', 'Thermodynamics']",6.95,"['C', 'E']",24
+U163,Student_163,M.Tech,CHEM,Metallurgy,24,1,"['EE 002', 'CHEM 071', 'MEL 072', 'CS 019']",Machine Learning,Startup,"['Python', 'Data Analysis', 'Communication']",7.19,"['B', 'C', 'D']",23
+U164,Student_164,B.Tech,AI,AI,26,4,"['ECE 079', 'MEL 033', 'CS 025']",Machine Learning,Research,"['ML', 'Thermodynamics', 'Communication']",7.46,"['B', 'E']",14
+U165,Student_165,B.Tech,CS,Cybersecurity,21,3,"['CS 046', 'AI 017', 'EE 086', 'MEL 084']",Networks,Higher Studies,"['C++', 'ML', 'Communication']",7.99,"['E', 'D']",21
+U166,Student_166,M.Tech,CHEM,Chemical Engineering,22,3,"['MEL 055', 'MEL 022', 'MEL 001', 'EE 041']",Networks,Industry,"['Control Systems', 'Thermodynamics', 'Mechanics']",8.74,"['E', 'C']",22
+U167,Student_167,B.Tech,AI,Electronics and Telecommunication,24,2,"['ECE 023', 'CS 083']",AI Research,Startup,"['C++', 'Mechanics', 'ML']",8.92,"['C', 'E', 'B']",14
+U168,Student_168,M.Tech,CS,Chemical Engineering,23,2,"['ECE 099', 'MEL 076', 'ECE 028', 'EE 005', 'CHEM 071']",Power Systems,Startup,"['Data Analysis', 'Thermodynamics', 'C++']",6.94,"['E', 'A']",28
+U169,Student_169,B.Tech,CS,Power Engineering,24,2,"['ECE 079', 'CS 088', 'MEL 022']",Electronics Design,Higher Studies,"['ML', 'Control Systems', 'C++']",9.6,"['C', 'A', 'E']",13
+U170,Student_170,M.Tech,AI,AI,20,1,"['ECE 030', 'MEL 006', 'EE 086', 'AI 027']",AI Research,Startup,"['Thermodynamics', 'Control Systems', 'Mechanics']",6.84,"['A', 'C']",28
+U171,Student_171,M.Tech,ECE,Chemical Engineering,22,3,"['AI 047', 'MEL 076', 'MEL 084', 'CS 010', 'EE 067']",Power Systems,Higher Studies,"['Mechanics', 'C++', 'Communication']",9.12,"['E', 'B', 'D']",12
+U172,Student_172,M.Tech,EE,Power Engineering,26,3,"['ECE 028', 'EE 020', 'ECE 024', 'CHEM 021']",Power Systems,Research,"['C++', 'Thermodynamics', 'Data Analysis']",8.09,"['B', 'E', 'A']",27
+U173,Student_173,B.Tech,EE,Electronics and Telecommunication,24,2,"['MEL 006', 'AI 017', 'EE 074']",AI Research,Research,"['ML', 'C++', 'Thermodynamics']",7.05,"['D', 'A']",17
+U174,Student_174,M.Tech,AI,Power Engineering,24,2,"['CS 058', 'AI 078', 'CS 061']",Electronics Design,Industry,"['Data Analysis', 'C++', 'Mechanics']",8.56,"['C', 'A']",28
+U175,Student_175,B.Tech,EE,Cybersecurity,21,4,"['ECE 050', 'AI 017', 'MEL 014', 'MEL 003', 'ECE 026']",AI Research,Research,"['Mechanics', 'Data Analysis', 'C++']",9.4,"['D', 'A', 'E']",29
+U176,Student_176,M.Tech,CS,Power Engineering,26,1,"['ECE 100', 'CS 087']",Cybersecurity,Higher Studies,"['Mechanics', 'Communication', 'Control Systems']",7.26,"['D', 'B']",27
+U177,Student_177,M.Tech,AI,Metallurgy,22,2,"['MEL 033', 'ECE 062', 'ECE 099']",Networks,Research,"['C++', 'ML', 'Communication']",8.84,"['E', 'A', 'B']",12
+U178,Student_178,M.Tech,CHEM,Power Engineering,22,4,"['MEL 084', 'AI 027', 'CHEM 089', 'EE 041', 'MEL 053']",Power Systems,Startup,"['C++', 'Data Analysis', 'Control Systems']",8.52,"['E', 'A']",24
+U179,Student_179,M.Tech,EE,Metallurgy,25,2,"['MEL 072', 'ECE 062', 'MEL 033', 'ECE 040']",AI Research,Research,"['Thermodynamics', 'Mechanics', 'Data Analysis']",8.97,"['E', 'D', 'A']",26
+U180,Student_180,B.Tech,MEL,Metallurgy,26,1,"['CHEM 044', 'CHEM 071', 'ECE 079', 'EE 090', 'CS 088']",Cybersecurity,Industry,"['Python', 'C++', 'Control Systems']",8.06,"['A', 'B']",25
+U181,Student_181,B.Tech,CS,Computer Technology,26,2,"['ECE 093', 'ECE 050']",Chemical Processes,Higher Studies,"['Communication', 'Thermodynamics', 'Data Analysis']",7.95,"['B', 'C', 'A']",18
+U182,Student_182,B.Tech,MEL,Metallurgy,21,1,"['ECE 079', 'MEL 022', 'CS 087']",Machine Learning,Startup,"['Thermodynamics', 'C++', 'Data Analysis']",9.07,"['B', 'A', 'C']",23
+U183,Student_183,M.Tech,AI,Chemical Engineering,22,3,"['AI 095', 'AI 091']",Machine Learning,Industry,"['C++', 'Communication', 'ML']",8.5,"['E', 'B', 'C']",18
+U184,Student_184,M.Tech,AI,Electronics and Telecommunication,24,3,"['AI 065', 'MEL 014', 'MEL 072', 'CS 010', 'AI 038']",Power Systems,Higher Studies,"['C++', 'Mechanics', 'Communication']",9.69,"['C', 'B']",30
+U185,Student_185,B.Tech,EE,Electronics and Telecommunication,25,2,"['ECE 062', 'EE 015']",Power Systems,Startup,"['C++', 'Control Systems', 'Thermodynamics']",7.86,"['D', 'E', 'C']",23
+U186,Student_186,B.Tech,CHEM,Power Engineering,23,3,"['CS 012', 'CHEM 052', 'CS 087', 'EE 096']",Electronics Design,Startup,"['Thermodynamics', 'Python', 'Communication']",7.22,"['C', 'B']",30
+U187,Student_187,M.Tech,EE,Cybersecurity,21,1,"['AI 095', 'CHEM 031', 'MEL 034']",Networks,Research,"['Control Systems', 'C++', 'Mechanics']",9.54,"['D', 'B']",27
+U188,Student_188,B.Tech,CS,Power Engineering,20,4,"['CHEM 064', 'EE 074', 'EE 036', 'CHEM 063']",Networks,Higher Studies,"['Communication', 'Control Systems', 'C++']",9.6,"['D', 'C']",13
+U189,Student_189,M.Tech,ECE,Power Engineering,21,3,"['EE 041', 'CHEM 089', 'EE 002', 'CS 087', 'AI 027']",Chemical Processes,Industry,"['C++', 'ML', 'Mechanics']",7.39,"['B', 'D', 'A']",22
+U190,Student_190,B.Tech,EE,Cybersecurity,26,1,"['AI 047', 'CHEM 052', 'EE 036', 'CS 058']",Networks,Startup,"['ML', 'Communication', 'Thermodynamics']",9.15,"['D', 'B', 'E']",29
+U191,Student_191,M.Tech,AI,Electronics and Telecommunication,22,1,"['EE 002', 'ECE 023', 'ECE 054', 'CHEM 064', 'ECE 018']",Electronics Design,Higher Studies,"['Thermodynamics', 'Mechanics', 'Control Systems']",6.83,"['B', 'E']",17
+U192,Student_192,M.Tech,EE,Computer Technology,26,2,"['MEL 034', 'AI 047', 'MEL 072', 'MEL 033']",Power Systems,Industry,"['Python', 'Control Systems', 'Data Analysis']",9.73,"['D', 'A', 'B']",21
+U193,Student_193,M.Tech,ECE,Cybersecurity,26,1,"['EE 060', 'MEL 081', 'CS 019', 'MEL 022']",Cybersecurity,Research,"['Thermodynamics', 'Control Systems', 'Data Analysis']",7.03,"['D', 'A', 'B']",19
+U194,Student_194,B.Tech,ECE,Cybersecurity,21,2,"['ECE 100', 'AI 047', 'EE 096', 'MEL 076', 'EE 067']",Chemical Processes,Startup,"['Mechanics', 'C++', 'Data Analysis']",9.6,"['C', 'D', 'B']",14
+U195,Student_195,B.Tech,EE,AI,20,4,"['CHEM 071', 'CS 007', 'CS 004', 'ECE 099', 'CHEM 051']",AI Research,Startup,"['C++', 'Python', 'ML']",7.26,"['A', 'E', 'D']",21
+U196,Student_196,M.Tech,MEL,Electronics and Telecommunication,26,3,"['EE 005', 'CS 085']",Power Systems,Higher Studies,"['Thermodynamics', 'Mechanics', 'Control Systems']",6.95,"['B', 'E']",29
+U197,Student_197,M.Tech,CHEM,AI,23,3,"['ECE 045', 'ECE 062', 'EE 070', 'ECE 030']",Electronics Design,Industry,"['C++', 'Control Systems', 'ML']",7.5,"['E', 'D', 'C']",12
+U198,Student_198,M.Tech,EE,Power Engineering,26,3,"['CHEM 089', 'CHEM 063']",Electronics Design,Industry,"['Data Analysis', 'ML', 'Python']",9.13,"['C', 'D', 'E']",29
+U199,Student_199,B.Tech,EE,Cybersecurity,22,1,"['CHEM 021', 'ECE 092', 'AI 095']",Cybersecurity,Higher Studies,"['Mechanics', 'Data Analysis', 'Control Systems']",8.56,"['E', 'D', 'B']",28
+U200,Student_200,M.Tech,CHEM,Metallurgy,22,4,"['AI 009', 'ECE 024', 'ECE 018']",Power Systems,Industry,"['C++', 'Thermodynamics', 'Control Systems']",7.56,"['C', 'E', 'B']",16

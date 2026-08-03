@@ -1,0 +1,11 @@
+user_id,user_name,user_program,user_department,user_branch,user_age,user_year_of_study,user_previous_courses,user_course_interest,user_career_interest,user_competencies,user_grades,user_occupied_slots,user_credits_requirement
+U001,Student_1,M.Tech,CHEM,Electronics and Telecommunication,24,3,"['ECE 045', 'ECE 056']",Machine Learning,Research,"['Communication', 'Thermodynamics', 'Mechanics']",7.23,"['D', 'C', 'A']",13
+U002,Student_2,M.Tech,EE,Computer Technology,24,2,"['AI 042', 'EE 016', 'MEL 001', 'CHEM 064']",Cybersecurity,Startup,"['Mechanics', 'C++', 'Data Analysis']",6.74,"['B', 'E', 'D']",13
+U003,Student_3,M.Tech,CS,Electronics and Telecommunication,21,4,"['EE 074', 'CHEM 052', 'AI 091', 'MEL 082', 'ECE 054']",Power Systems,Startup,"['C++', 'Control Systems', 'Python']",6.79,"['A', 'C', 'D']",15
+U004,Student_4,B.Tech,AI,AI,24,2,"['EE 096', 'CHEM 044', 'AI 029', 'EE 043']",Electronics Design,Startup,"['ML', 'Python', 'Communication']",7.66,"['E', 'A', 'B']",16
+U005,Student_5,M.Tech,CS,AI,23,4,"['AI 078', 'EE 020', 'EE 098']",Electronics Design,Startup,"['C++', 'Data Analysis', 'Thermodynamics']",9.35,"['C', 'B']",22
+U006,Student_6,M.Tech,AI,AI,20,1,"['EE 036', 'MEL 076', 'AI 008', 'CS 046']",AI Research,Startup,"['C++', 'ML', 'Control Systems']",9.24,"['D', 'E']",14
+U007,Student_7,B.Tech,CS,Chemical Engineering,26,3,"['AI 042', 'AI 078', 'CS 061']",AI Research,Research,"['ML', 'Python', 'Control Systems']",8.17,"['D', 'A', 'B']",17
+U008,Student_8,M.Tech,EE,Computer Technology,20,3,"['CHEM 037', 'ECE 050', 'MEL 053', 'ECE 100']",Power Systems,Research,"['Python', 'Mechanics', 'Thermodynamics']",8.34,"['D', 'B', 'E']",24
+U009,Student_9,B.Tech,ECE,Cybersecurity,22,4,"['ECE 045', 'ECE 040', 'MEL 084']",Cybersecurity,Startup,"['Mechanics', 'C++', 'Communication']",9.18,"['C', 'A']",28
+U010,Student_10,B.Tech,MEL,Computer Technology,21,1,"['ECE 040', 'ECE 024', 'ECE 028', 'CHEM 044']",Electronics Design,Startup,"['Data Analysis', 'C++', 'Mechanics']",9.29,"['E', 'C', 'A']",15

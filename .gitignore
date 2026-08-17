@@ -11,5 +11,8 @@ __pycache__/
 *.jpg
 *.png
 
+# Documentation assets
+!assets/screenshots/*.png
+
 # OS
 .DS_Store
